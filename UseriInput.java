@@ -11,7 +11,7 @@ public class UseriInput
 {
     public static void main(String[]arg)
     {
-        Scanner sc = new Scanner(System.in);
+            
         System.out.println("Enter num");
         int firstNum = sc.nextInt();
         System.out.println("Enter another num");
